@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Soapbox
 locale:           en_US
 url:
 
@@ -26,9 +26,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Thomas Wunderlich
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "Software developer. I build, scale and operate web applications. Currently running the production support team"
   email:
   disqus-shortname:
   twitter: #username
@@ -40,7 +40,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: ThomasWunderlich
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
